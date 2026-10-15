@@ -1,0 +1,3 @@
+Model,Accuracy (%),Precision (%),Sensitivity (%),F1 Score (%)
+Random Forest,98.75,98.04,100.0,99.01
+Logistic Regression,98.75,100.0,98.0,98.99
